@@ -1,0 +1,4 @@
+# generated comparison sheets and caches
+compare_*.png
+__pycache__/
+*.pyc
