@@ -1,7 +1,5 @@
 # compare_lora_epochs
 
-[English](README.md)
-
 **LoRAの最適なエポックを選ぶ**ためのコマンドラインツールです。
 起動中の [ComfyUI](https://github.com/comfyanonymous/ComfyUI) に対して、LoRAファイル（と強度）ごとに
 同じプロンプト・同じシードで画像を生成し、結果を比較表の画像にまとめます。
